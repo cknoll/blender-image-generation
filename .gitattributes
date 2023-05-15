@@ -1,0 +1,4 @@
+Textures/aerial_grass_rock_4k.blend filter=lfs diff=lfs merge=lfs -text
+Textures/concrete_wall_006_4k.blend filter=lfs diff=lfs merge=lfs -text
+Textures/rocky_trail_4k.blend filter=lfs diff=lfs merge=lfs -text
+Textures/rusty_metal_02_4k.blend filter=lfs diff=lfs merge=lfs -text
